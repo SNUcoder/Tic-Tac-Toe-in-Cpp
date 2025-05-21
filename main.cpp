@@ -1,5 +1,4 @@
-// Tic-Tac-Toe.cpp: This file contains the 'main' function. Program execution begins and ends there.
-//
+// main.cpp file
 
 #include <iostream>
 using namespace std;
