@@ -22,7 +22,7 @@ This is a simple terminal-based Tic-Tac-Toe game implemented in C++. Designed fo
 To compile the game, run:
 
 ```bash
-g++ tic_tac_toe.cpp -o tic_tac_toe
+g++ main.cpp -o tic_tac_toe
 ```
 
 ### Running the game
