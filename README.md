@@ -56,9 +56,9 @@ After compilation, run:
 ![image](https://github.com/user-attachments/assets/68ada9de-9ea8-4b1b-8133-35cfa3ae517f)
 
 ## Future Improvements
--- Add a single-player mode with basic AI
+- Add a single-player mode with basic AI
 
--- GUI version using a graphics library
+- GUI version using a graphics library
 
--- Score tracking
+- Score tracking
 
